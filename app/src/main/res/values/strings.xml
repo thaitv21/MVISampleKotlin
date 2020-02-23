@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MVISampleKotlin</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="oops_we_couldnt_find_any_movie">Oops…\nWe couldn\'t find any movie matches your keyword</string>
+    <string name="find_movie_by_name">Tìm kiếm theo tên phim, đạo diễn,…</string>
+
+</resources>
